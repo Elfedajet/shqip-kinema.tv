@@ -1,2 +1,2 @@
-# shqip-kinema.tv
-shqip-kinema.tv
+# shqip-anime.tv
+shqip-anime.tv
